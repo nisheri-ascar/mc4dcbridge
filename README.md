@@ -10,10 +10,13 @@ channel=YOUR DISCORD CHANNEL (should be numbers)
 ```
 
 # Todos
-[ ] Implement WebHook (i dunno if possible)
-[ ] Make names colored in game
-[ ] Disallow reply
-[ ] Implement music feature (Mainly i made this so me and my friends can listen music while ingame, without bothering to minimize minecraft ever)
+- [ ] Implement WebHook (i dunno if possible)
+
+- [ ] Make names colored in game
+
+- [ ] Disallow reply
+
+- [ ] Implement music feature (Mainly i made this so me and my friends can listen music while ingame, without bothering to minimize minecraft ever)
 
 # final words
 
