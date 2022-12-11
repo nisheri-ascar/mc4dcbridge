@@ -7,6 +7,7 @@ Create `.env` file at the same path of `bot.js` it should contain
 ```
 TOKEN=YOUR DISCORD TOKEN
 channel=YOUR DISCORD CHANNEL (should be numbers)
+```
 
 # Todos
 [ ] Implement WebHook (i dunno if possible)
