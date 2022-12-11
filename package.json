@@ -1,0 +1,22 @@
+{
+  "name": "mcchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.3",
+    "mineflayer": "^4.5.1",
+    "mineflayer-chat": "^0.0.1",
+    "prismarine-chat": "^1.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
